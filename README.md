@@ -1,5 +1,9 @@
-###Hi there 👋
-
+### Hi there 👋
+ 
+ -👋 Hi, I’m Piyali Bhunia
+ -👀 A Passionate learner, who loves to code
+-🌱 I’m currently learning ML using python
+-📫 How to reach me bhuniapiyali16@gmail.com
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
